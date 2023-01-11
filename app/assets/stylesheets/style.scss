@@ -368,9 +368,7 @@ tr {
 }
 
 .footer {
-    align-items: center;
-    background-color: #1c1d3b;
-    display: flex;
-    height: 465px;
+  position: absolute;
+  bottom: 0;
 }
 
